@@ -1,0 +1,9 @@
+[submodule "assignment-1-parsamajidi21"]
+	path = assignment-1-parsamajidi21
+	url = https://github.com/cu-ecen-aeld/assignment-1-parsamajidi21.git
+[submodule "assignment-2-parsamajidi21"]
+	path = assignment-2-parsamajidi21
+	url = https://github.com/cu-ecen-aeld/assignment-2-parsamajidi21.git
+[submodule "assignments-3-and-later-parsamajidi21"]
+	path = assignments-3-and-later-parsamajidi21
+	url = https://github.com/cu-ecen-aeld/assignments-3-and-later-parsamajidi21.git
